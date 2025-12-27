@@ -4,19 +4,6 @@ A real-time face detection tool that identifies human faces from your webcam fee
 
 ---
 
-## 📽️ Demo
-
-*(Add your demo GIF or screenshot here)*
-Example:
-
-```
-![Demo](demo.gif)
-```
-
-A quick demonstration showing real-time webcam face detection with bounding boxes and labels.
-
----
-
 ## 🚀 What is this project?
 
 This project is a simple yet powerful **real-time face detection system**. Using OpenCV’s pre-trained Haar Cascade model, it identifies faces in the webcam feed and highlights them with a bounding box.
